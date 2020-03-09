@@ -1,3 +1,8 @@
+<!--
+Consider this resource not valid for github.
+Check the TUTORIAL.md instead.
+--->
+
 [//]: # (Headings)
 # Heading 1
 ## Heading 2

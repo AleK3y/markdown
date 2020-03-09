@@ -1,9 +1,10 @@
 <!--
-Consider this resource not valid for github.
-Check the TUTORIAL.md instead.
+WARNING!
+Github's markdown is different from the default one.
+You can find a general syntax at https://pastebin.com/JQyxeZDV
 --->
 
-[//]: # (Headings)
+<!-- Headings -->
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -11,59 +12,56 @@ Check the TUTORIAL.md instead.
 ##### Heading 5
 ###### Heading 6
 
-[//]: # (Line breaks [only github])
+<!-- Line breaks -->
 This text continues \
 on the next line
 
-[//]: # (Comments [only github])
-<!-- I wonder whether github has the best markdown or not -->
-
-[//]: # (Italics)
+<!-- Italics -->
 *This text* is italic
 _This text_ is italic
 
-[//]: # (Strong)
+<!-- Strong -->
 **This text** is strong
 __This text__ is strong
 
-[//]: # (Striketrough)
+<!-- Striketrough -->
 ~~This text~~ is strikedtrough
 
-[//]: # (Horizontal rule)
+<!-- Horizontal rule -->
 ---
 ___
 
-[//]: # (Escape symbols)
+<!-- Escape symbols -->
 \*\*This text\*\* is not strong
 
-[//]: # (Blockquote)
+<!-- Blockquote -->
 > This is a quote
 
-[//]: # (Links)
+<!-- Links -->
 [Text for link](https://google.com)
 [Text for link with mouse hover](https://google.com "Hello :P")
 
-[//]: # (Unordered lists)
+<!-- Unordered list -->
 * Item 1
 * Item 2
 * Item 3
 	* Nested item 1
 	* Nested item 2
 
-[//]: # (Ordered lists)
+<!-- Ordered list -->
 1. Item 1
 1. Item 2
 1. Item 3
 376. Item 9
 
-[//]: # (Inline code block)
+<!-- Inline code block -->
 `<p>Hello</p>`
 `cowsay "Hello!"`
 
-[//]: # (Images)
+<!-- Images -->
 ![Markdown logo](https://markdown-here.com/img/icon256.png)
 
-[//]: # (Code blocks)
+<!-- Code blocks -->
 ```c
 #include <stdio.h>
 int main() {
@@ -71,7 +69,7 @@ int main() {
 }
 ```
 
-[//]: # (Tables)
+<!-- Tables -->
 | Column 1 | Long column 2 |
 | -------- | -------- |
 | Long value | Short |
@@ -82,7 +80,7 @@ int main() {
 | Name     | Value    |
 | Other    | Other    |
 
-[//]: # (Task lists)
+<!-- Task lists -->
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3

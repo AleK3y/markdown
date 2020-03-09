@@ -1,8 +1,7 @@
 # Welcome
 ## fellow comrad :)
 
-You shall proceed into the world of Markdown,
-
+You shall proceed into the world of Markdown, \
 a **beautiful** language to take _really simple and cute notes_!
 
 ---
@@ -16,16 +15,14 @@ You can express how you feel, for example:
 ---
 
 But always remember :P
-> "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."
-
+> "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." \
 > ~ Ernest Hemingway
 
 Or maybe you want to read about him in [this source](https://en.wikipedia.org/wiki/Ernest_Hemingway "Don't click the other guy there :I") or in [this one instead](https://www.imdb.com/name/nm0002133/).
 
 ---
 
-Did you know how advanced this can get?
-
+Did you know how advanced this can get? \
 Look, a cat! :O
 
 ![Cutie](https://i.imgur.com/DMoZgQ7.png "Oh no! I hope it works :C")
@@ -63,14 +60,12 @@ To lower the **FATALITY** rate I reccommend following this healthy-chan list:
 - [ ] Cover your nose if you sneeze
 - [x] Use the mask ~~if you suspect you're sick~~
 
-Oh I see you are wery well behaved against this type of threat :V
-
+Oh I see you are wery well behaved against this type of threat :V \
 Don't worry you only have _3.4%_ chance of dying ~.~
 
 ---
 
-Oh.. what a sad ending!
-
+Oh.. what a sad ending! \
 I hope you learnt something from this useful piece of information, but if you didn't here's the catch:
 
 [![Manga](https://imgur.com/dXr4A59.png)](https://www.quora.com/Whats-wrong-with-being-a-weeb?share=1 "Manga is literature!")

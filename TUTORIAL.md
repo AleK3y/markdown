@@ -66,7 +66,7 @@ To lower the **FATALITY** rate I reccommend following this healthy-chan list:
 - [x] Use the mask ~~if you suspect you're sick~~
 
 Oh I see you are wery well behaved against this type of threat :V \
-Don't worry you only have _3.4%_ chance of dying ~.~
+Don't worry you only have _3.4%_ chance of dying \~.\~
 
 ---
 

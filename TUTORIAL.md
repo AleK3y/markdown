@@ -1,7 +1,7 @@
 <!--
 WARNING!
 Github's markdown is different from the default one.
-You can find a general tutorial on https://pastebin.com/NSezh3EH
+You can find a general tutorial at https://pastebin.com/NSezh3EH
 --->
 
 # Welcome

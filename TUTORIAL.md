@@ -64,11 +64,13 @@ To lower the **FATALITY** rate I reccommend following this healthy-chan list:
 - [x] Use the mask ~~if you suspect you're sick~~
 
 Oh I see you are wery well behaved against this type of threat :V
+
 Don't worry you only have _3.4%_ chance of dying ~.~
 
 ---
 
 Oh.. what a sad ending!
+
 I hope you learnt something from this useful piece of information, but if you didn't here's the catch:
 
 [![Manga](https://imgur.com/dXr4A59.png)](https://www.quora.com/Whats-wrong-with-being-a-weeb?share=1 "Manga is literature!")

@@ -6,6 +6,13 @@
 ##### Heading 5
 ###### Heading 6
 
+[//]: # (Line breaks [only github])
+This text continues \
+on the next line
+
+[//]: # (Comments [only github])
+<!-- I wonder whether github has the best markdown or not -->
+
 [//]: # (Italics)
 *This text* is italic
 _This text_ is italic

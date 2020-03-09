@@ -10,7 +10,7 @@ You can express how you feel, for example:
 - If you feel __strong__ you can \*\*express it using bold\*\*!
 + or if you feel *fast* you can \_show how fast you are using italic\_
 * or maybe you feel ~~crossed~~ by a weight on you and you want ​~​~to strike it trough​~​~
-[//]: # (I used zero width space to escape the tildas)
+<!-- I used zero width space to escape the tildas -->
 
 ---
 
@@ -70,6 +70,8 @@ I hope you learnt something from this useful piece of information, but if you di
 
 [![Manga](https://imgur.com/dXr4A59.png)](https://www.quora.com/Whats-wrong-with-being-a-weeb?share=1 "Manga is literature!")
 
-[//]: # (Sources)
-[//]: # (https://daringfireball.net/projects/markdown/syntax)
-[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+<!--
+Sources:
+https://daringfireball.net/projects/markdown/syntax
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+--->

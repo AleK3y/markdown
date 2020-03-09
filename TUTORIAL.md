@@ -2,6 +2,7 @@
 ## fellow comrad :)
 
 You shall proceed into the world of Markdown,
+
 a **beautiful** language to take _really simple and cute notes_!
 
 ---
@@ -16,6 +17,7 @@ You can express how you feel, for example:
 
 But always remember :P
 > "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."
+
 > ~ Ernest Hemingway
 
 Or maybe you want to read about him in [this source](https://en.wikipedia.org/wiki/Ernest_Hemingway "Don't click the other guy there :I") or in [this one instead](https://www.imdb.com/name/nm0002133/).
@@ -23,7 +25,9 @@ Or maybe you want to read about him in [this source](https://en.wikipedia.org/wi
 ---
 
 Did you know how advanced this can get?
+
 Look, a cat! :O
+
 ![Cutie](https://i.imgur.com/DMoZgQ7.png "Oh no! I hope it works :C")
 
 ---

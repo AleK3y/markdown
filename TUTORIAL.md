@@ -1,3 +1,9 @@
+<!--
+WARNING!
+Github's markdown is different from the default one.
+You can find a general tutorial on https://pastebin.com/NSezh3EH
+--->
+
 # Welcome
 ## fellow comrad :)
 
@@ -9,8 +15,7 @@ a **beautiful** language to take _really simple and cute notes_!
 You can express how you feel, for example:
 - If you feel __strong__ you can \*\*express it using bold\*\*!
 + or if you feel *fast* you can \_show how fast you are using italic\_
-* or maybe you feel ~~crossed~~ by a weight on you and you want ​~​~to strike it trough​~​~
-<!-- I used zero width space to escape the tildas -->
+* or maybe you feel ~~crossed~~ by a weight on you and you want \~\~to strike it trough\~\~
 
 ---
 
